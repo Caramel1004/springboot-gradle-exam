@@ -1,5 +1,7 @@
 # springboot-gradle-exam
 스프링부트 샘플(연습 프로젝트)<br>
+- Springboot 개념 업로드 예정
+- 과제테스트 끝나면 정리 할 예정
 springboot + jpa + h2 + gradle
 
 @SpringBootApplication:
